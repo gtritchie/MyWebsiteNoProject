@@ -1,0 +1,12 @@
+---
+title: "My Website"
+---
+
+Hello, Website! This is the home page of a simple R Markdown website without an RStudio project.
+
+This page was last Knitted at:
+```{r echo=FALSE}
+date()
+```
+
+<a href='misc.html'>Another page</a>
